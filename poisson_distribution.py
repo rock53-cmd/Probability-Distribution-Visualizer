@@ -3,8 +3,6 @@ import matplotlib.pyplot as plt
 from scipy.special import factorial
 from matplotlib.widgets import Slider
 from scipy.stats import poisson
-from turtle import color
-
 
 
 def function(la,x):

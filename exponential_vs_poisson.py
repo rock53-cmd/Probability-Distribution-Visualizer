@@ -2,8 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import factorial
 from matplotlib.widgets import Slider
-from scipy.stats import poisson
-from turtle import color
 
 from scipy.stats import expon
 
